@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Chenhao!
 
 ## 🚀 About Me
-I'm a Data Scientist with experience in Machine Learning, Data Analysis, and Software Engineering, passionate about building business solutions with data and AI.
-Currently working at **[Nippon Paint Automotive Americas](https://www.nipponpaintamericas.com/)**, focusing on **AI-based forecasting for supply chain**.
+I'm a Data Scientist with experience in Machine Learning, Data Analysis, and Software Engineering, passionate about building business solutions with data and AI. I'm currently working at **[Nippon Paint Automotive Americas](https://www.nipponpaintamericas.com/)**, focusing on **AI-based forecasting for supply chain**.
 
 ## 💼 Professional Highlights
 - **Data Scientist** - Nippon Paint Automotive Americas, USA (2024.9 - Present)
